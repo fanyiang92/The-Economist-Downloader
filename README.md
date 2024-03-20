@@ -9,4 +9,10 @@ This principle can be extrapolated to obtain subsequent issue.
 
 
 经济学人每周六更新,请选择日期时确保其在周六,要不然链接错误.
-关于杂志的期数,在印刷版pdf中有写,可以参考. 目前2024年3月16号的这一期,是第9388 期, 后续期数可以以此类推.
+关于杂志的期数,在印刷版pdf中有写,可以参考. 目前2024年3月16号的这一期,是第9388 期, 后续期可以以此类推. 
+![image](https://github.com/fanyiang92/The-Economist-Downloader/assets/95676476/90f80f1d-a479-4de4-974c-5af3a916fdd1)
+
+
+Issue位置如图所示
+![image](https://github.com/fanyiang92/The-Economist-Downloader/assets/95676476/efc87a6b-6344-49df-9e46-9749371a846c)
+
